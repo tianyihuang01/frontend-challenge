@@ -1,0 +1,12 @@
+import React from 'react';
+import 'css-wipe'
+
+function App() {
+  return (
+		<>
+			<h1>It works!</h1>
+		</>
+  );
+}
+
+export default App;

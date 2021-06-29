@@ -1,0 +1,5498 @@
+[
+  {
+    "id": 152,
+    "order": 234,
+    "name": "Chikorita",
+    "height": 9,
+    "genus": "Leaf Pokémon",
+    "habitat": "grassland",
+    "color": "green",
+    "flavor_text": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays.",
+    "stats": [
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 49,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 49,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/152.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "order": 235,
+    "name": "Bayleef",
+    "height": 12,
+    "genus": "Leaf Pokémon",
+    "habitat": "grassland",
+    "color": "green",
+    "flavor_text": "The buds that ring its neck give off a spicy aroma that perks people up.",
+    "stats": [
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 62,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 63,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/153.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "order": 236,
+    "name": "Meganium",
+    "height": 18,
+    "genus": "Herb Pokémon",
+    "habitat": "grassland",
+    "color": "green",
+    "flavor_text": "The aroma that rises from its petals contains a substance that calms aggressive feelings.",
+    "stats": [
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 82,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 83,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 2,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/154.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "order": 237,
+    "name": "Cyndaquil",
+    "height": 5,
+    "genus": "Fire Mouse Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "It is timid, and always curls it­ self up in a ball. If attacked, it flares up its back for protection.",
+    "stats": [
+      {
+        "base_stat": 39,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 52,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 43,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/155.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "order": 238,
+    "name": "Quilava",
+    "height": 9,
+    "genus": "Volcano Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back.",
+    "stats": [
+      {
+        "base_stat": 58,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 64,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 58,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/156.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "order": 239,
+    "name": "Typhlosion",
+    "height": 17,
+    "genus": "Volcano Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.",
+    "stats": [
+      {
+        "base_stat": 78,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 84,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 78,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 109,
+        "effort": 3,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/157.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "order": 240,
+    "name": "Totodile",
+    "height": 6,
+    "genus": "Big Jaw Pokémon",
+    "habitat": "water's edge",
+    "color": "blue",
+    "flavor_text": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful.",
+    "stats": [
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 65,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 64,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 44,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 48,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 43,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/158.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "order": 241,
+    "name": "Croconaw",
+    "height": 11,
+    "genus": "Big Jaw Pokémon",
+    "habitat": "water's edge",
+    "color": "blue",
+    "flavor_text": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 59,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 63,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 58,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/159.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "order": 242,
+    "name": "Feraligatr",
+    "height": 23,
+    "genus": "Big Jaw Pokémon",
+    "habitat": "water's edge",
+    "color": "blue",
+    "flavor_text": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up.",
+    "stats": [
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 105,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 79,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 83,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 78,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/160.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "order": 243,
+    "name": "Sentret",
+    "height": 8,
+    "genus": "Scout Pokémon",
+    "habitat": "grassland",
+    "color": "brown",
+    "flavor_text": "A very cautious POKéMON, it raises itself up using its tail to get a better view of its surroundings.",
+    "stats": [
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 46,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 34,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/161.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "order": 244,
+    "name": "Furret",
+    "height": 18,
+    "genus": "Long Body Pokémon",
+    "habitat": "grassland",
+    "color": "brown",
+    "flavor_text": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+    "stats": [
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 76,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 64,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 2,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/162.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "order": 245,
+    "name": "Hoothoot",
+    "height": 7,
+    "genus": "Owl Pokémon",
+    "habitat": "forest",
+    "color": "brown",
+    "flavor_text": "It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",
+    "stats": [
+      {
+        "base_stat": 60,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 36,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 56,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/163.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "order": 246,
+    "name": "Noctowl",
+    "height": 16,
+    "genus": "Owl Pokémon",
+    "habitat": "forest",
+    "color": "brown",
+    "flavor_text": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark.",
+    "stats": [
+      {
+        "base_stat": 100,
+        "effort": 2,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 86,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 96,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/164.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "order": 247,
+    "name": "Ledyba",
+    "height": 10,
+    "genus": "Five Star Pokémon",
+    "habitat": "forest",
+    "color": "red",
+    "flavor_text": "It is very timid. It will be afraid to move if it is alone. But it will be active if it is in a group.",
+    "stats": [
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/165.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "order": 248,
+    "name": "Ledian",
+    "height": 14,
+    "genus": "Five Star Pokémon",
+    "habitat": "forest",
+    "color": "red",
+    "flavor_text": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 110,
+        "effort": 2,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/166.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "order": 249,
+    "name": "Spinarak",
+    "height": 5,
+    "genus": "String Spit Pokémon",
+    "habitat": "forest",
+    "color": "green",
+    "flavor_text": "It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.",
+    "stats": [
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 60,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/167.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "order": 250,
+    "name": "Ariados",
+    "height": 11,
+    "genus": "Long Leg Pokémon",
+    "habitat": "forest",
+    "color": "red",
+    "flavor_text": "It spins string not only from its rear but also from its mouth. It is hard to tell which end is which.",
+    "stats": [
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 90,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/168.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "order": 73,
+    "name": "Crobat",
+    "height": 18,
+    "genus": "Bat Pokémon",
+    "habitat": "cave",
+    "color": "purple",
+    "flavor_text": "It flies so si­ lently through the dark on its four wings that it may not be noticed even when nearby.",
+    "stats": [
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 130,
+        "effort": 3,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/169.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "poison"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "order": 251,
+    "name": "Chinchou",
+    "height": 5,
+    "genus": "Angler Pokémon",
+    "habitat": "sea",
+    "color": "blue",
+    "flavor_text": "It shoots positive and negative elec­ tricity between the tips of its two antennae and zaps its enemies.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 38,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 38,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 56,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 56,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 67,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/170.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "order": 252,
+    "name": "Lanturn",
+    "height": 12,
+    "genus": "Light Pokémon",
+    "habitat": "sea",
+    "color": "blue",
+    "flavor_text": "The light it emits is so bright that it can illuminate the sea's surface from a depth of over three miles.",
+    "stats": [
+      {
+        "base_stat": 125,
+        "effort": 2,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 58,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 58,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 76,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 76,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 67,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/171.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "order": 34,
+    "name": "Pichu",
+    "height": 3,
+    "genus": "Tiny Mouse Pokémon",
+    "habitat": "forest",
+    "color": "yellow",
+    "flavor_text": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+    "stats": [
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 15,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/172.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "order": 61,
+    "name": "Cleffa",
+    "height": 3,
+    "genus": "Star Shape Pokémon",
+    "habitat": "mountain",
+    "color": "pink",
+    "flavor_text": "According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",
+    "stats": [
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 25,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 28,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 15,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/173.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "order": 68,
+    "name": "Igglybuff",
+    "height": 3,
+    "genus": "Balloon Pokémon",
+    "habitat": "grassland",
+    "color": "pink",
+    "flavor_text": "It has a very soft body. If it starts to roll, it will bounce all over and be impossible to stop.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 15,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 15,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/174.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "order": 253,
+    "name": "Togepi",
+    "height": 3,
+    "genus": "Spike Ball Pokémon",
+    "habitat": "forest",
+    "color": "white",
+    "flavor_text": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+    "stats": [
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/175.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "order": 254,
+    "name": "Togetic",
+    "height": 6,
+    "genus": "Happiness Pokémon",
+    "habitat": "forest",
+    "color": "white",
+    "flavor_text": "They say that it will appear before kindhearted, car­ ing people and shower them with happiness.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 105,
+        "effort": 2,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/176.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fairy"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "order": 256,
+    "name": "Natu",
+    "height": 2,
+    "genus": "Tiny Bird Pokémon",
+    "habitat": "forest",
+    "color": "green",
+    "flavor_text": "Because its wings aren't yet fully grown, it has to hop to get around. It is always star­ ing at something.",
+    "stats": [
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/177.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "order": 257,
+    "name": "Xatu",
+    "height": 15,
+    "genus": "Mystic Pokémon",
+    "habitat": "forest",
+    "color": "green",
+    "flavor_text": "They say that it stays still and quiet because it is seeing both the past and future at the same time.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/178.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "order": 258,
+    "name": "Mareep",
+    "height": 6,
+    "genus": "Wool Pokémon",
+    "habitat": "grassland",
+    "color": "white",
+    "flavor_text": "If static elec­ tricity builds in its body, its fleece doubles in volume. Touching it will shock you.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/179.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "order": 259,
+    "name": "Flaaffy",
+    "height": 8,
+    "genus": "Wool Pokémon",
+    "habitat": "grassland",
+    "color": "pink",
+    "flavor_text": "As a result of storing too much electricity, it developed patches where even downy wool won't grow.",
+    "stats": [
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 2,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/180.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "order": 260,
+    "name": "Ampharos",
+    "height": 14,
+    "genus": "Light Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 115,
+        "effort": 3,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/181.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "order": 77,
+    "name": "Bellossom",
+    "height": 4,
+    "genus": "Flower Pokémon",
+    "habitat": "grassland",
+    "color": "green",
+    "flavor_text": "BELLOSSOM gather at times and appear to dance. They say that the dance is a ritual to summon the sun.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 3,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/182.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "order": 263,
+    "name": "Marill",
+    "height": 4,
+    "genus": "Aqua Mouse Pokémon",
+    "habitat": "water's edge",
+    "color": "blue",
+    "flavor_text": "The tip of its tail, which con­ tains oil that is lighter than wa­ ter, lets it swim without drowning.",
+    "stats": [
+      {
+        "base_stat": 70,
+        "effort": 2,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/183.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "order": 264,
+    "name": "Azumarill",
+    "height": 8,
+    "genus": "Aqua Rabbit Pokémon",
+    "habitat": "water's edge",
+    "color": "blue",
+    "flavor_text": "By keeping still and listening in­ tently, it can tell what is in even wild, fast- moving rivers.",
+    "stats": [
+      {
+        "base_stat": 100,
+        "effort": 3,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/184.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "order": 266,
+    "name": "Sudowoodo",
+    "height": 12,
+    "genus": "Imitation Pokémon",
+    "habitat": "forest",
+    "color": "brown",
+    "flavor_text": "Although it always pretends to be a tree, its composi­ tion appears to be closer to a rock than a plant.",
+    "stats": [
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 115,
+        "effort": 2,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/185.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "order": 99,
+    "name": "Politoed",
+    "height": 11,
+    "genus": "Frog Pokémon",
+    "habitat": "water's edge",
+    "color": "green",
+    "flavor_text": "If POLIWAG and POLIWHIRL hear its echoing cry, they respond by gather­ ing from far and wide.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 3,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/186.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "order": 267,
+    "name": "Hoppip",
+    "height": 4,
+    "genus": "Cottonweed Pokémon",
+    "habitat": "grassland",
+    "color": "pink",
+    "flavor_text": "To keep from being blown away by the wind, they gather in clusters. They do enjoy gentle breezes, though.",
+    "stats": [
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/187.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "order": 268,
+    "name": "Skiploom",
+    "height": 6,
+    "genus": "Cottonweed Pokémon",
+    "habitat": "grassland",
+    "color": "green",
+    "flavor_text": "The bloom on top of its head opens and closes as the temperature fluc­ tuates up and down.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 2,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/188.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "order": 269,
+    "name": "Jumpluff",
+    "height": 8,
+    "genus": "Cottonweed Pokémon",
+    "habitat": "grassland",
+    "color": "blue",
+    "flavor_text": "Once it catches the wind, it deft­ ly controls its cotton-puff spores to float, even around the world.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 110,
+        "effort": 3,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/189.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "order": 270,
+    "name": "Aipom",
+    "height": 8,
+    "genus": "Long Tail Pokémon",
+    "habitat": "forest",
+    "color": "purple",
+    "flavor_text": "Its tail is so powerful that it can use it to grab a tree branch and hold itself up in the air.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/190.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "order": 272,
+    "name": "Sunkern",
+    "height": 3,
+    "genus": "Seed Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "It may drop out of the sky suddenly. If attacked by a SPEAROW, it will violently shake its leaves.",
+    "stats": [
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/191.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "order": 273,
+    "name": "Sunflora",
+    "height": 8,
+    "genus": "Sun Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "It converts sun­ light into energy. In the darkness after sunset, it closes its petals and becomes still.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 105,
+        "effort": 2,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/192.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "grass"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "order": 274,
+    "name": "Yanma",
+    "height": 12,
+    "genus": "Clear Wing Pokémon",
+    "habitat": "forest",
+    "color": "red",
+    "flavor_text": "If it flaps its wings really fast, it can generate shock waves that will shatter win­ dows in the area.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/193.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "order": 276,
+    "name": "Wooper",
+    "height": 4,
+    "genus": "Water Fish Pokémon",
+    "habitat": "water's edge",
+    "color": "blue",
+    "flavor_text": "This POKéMON lives in cold water. It will leave the water to search for food when it gets cold outside.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 25,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 25,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 15,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/194.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "order": 277,
+    "name": "Quagsire",
+    "height": 14,
+    "genus": "Water Fish Pokémon",
+    "habitat": "water's edge",
+    "color": "blue",
+    "flavor_text": "This carefree POKéMON has an easy-going nature. While swimming, it always bumps into boat hulls.",
+    "stats": [
+      {
+        "base_stat": 95,
+        "effort": 2,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/195.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "order": 208,
+    "name": "Espeon",
+    "height": 9,
+    "genus": "Sun Pokémon",
+    "habitat": "urban",
+    "color": "purple",
+    "flavor_text": "It uses the fine hair that covers its body to sense air currents and predict its ene­ my's actions.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 130,
+        "effort": 2,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 110,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/196.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "order": 209,
+    "name": "Umbreon",
+    "height": 10,
+    "genus": "Moonlight Pokémon",
+    "habitat": "urban",
+    "color": "black",
+    "flavor_text": "When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores.",
+    "stats": [
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 110,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 130,
+        "effort": 2,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/197.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dark"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "order": 278,
+    "name": "Murkrow",
+    "height": 5,
+    "genus": "Darkness Pokémon",
+    "habitat": "forest",
+    "color": "black",
+    "flavor_text": "Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.",
+    "stats": [
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 42,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 42,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 91,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/198.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dark"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "order": 123,
+    "name": "Slowking",
+    "height": 20,
+    "genus": "Royal Pokémon",
+    "habitat": "water's edge",
+    "color": "pink",
+    "flavor_text": "It has incredible intellect and in­ tuition. Whatever the situation, it remains calm and collected.",
+    "stats": [
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 110,
+        "effort": 3,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/199.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "order": 280,
+    "name": "Misdreavus",
+    "height": 7,
+    "genus": "Screech Pokémon",
+    "habitat": "cave",
+    "color": "gray",
+    "flavor_text": "It likes playing mischievous tricks such as screaming and wailing to startle people at night.",
+    "stats": [
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/200.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ghost"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "order": 282,
+    "name": "Unown",
+    "height": 5,
+    "genus": "Symbol Pokémon",
+    "habitat": "rare",
+    "color": "black",
+    "flavor_text": "Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.",
+    "stats": [
+      {
+        "base_stat": 48,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 72,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 48,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 72,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 48,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 48,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/201.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "order": 284,
+    "name": "Wobbuffet",
+    "height": 13,
+    "genus": "Patient Pokémon",
+    "habitat": "cave",
+    "color": "blue",
+    "flavor_text": "It hates light and shock. If attack­ ed, it inflates its body to pump up its counter­ strike.",
+    "stats": [
+      {
+        "base_stat": 190,
+        "effort": 2,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 33,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 58,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 33,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 58,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 33,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/202.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "order": 285,
+    "name": "Girafarig",
+    "height": 15,
+    "genus": "Long Neck Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "Its tail has a small brain of its own. Beware! If you get close, it may react to your scent and bite.",
+    "stats": [
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 2,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/203.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "order": 286,
+    "name": "Pineco",
+    "height": 6,
+    "genus": "Bagworm Pokémon",
+    "habitat": "forest",
+    "color": "gray",
+    "flavor_text": "It likes to make its shell thicker by adding layers of tree bark. The additional weight doesn't bother it.",
+    "stats": [
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 90,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 15,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/204.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "order": 287,
+    "name": "Forretress",
+    "height": 12,
+    "genus": "Bagworm Pokémon",
+    "habitat": "forest",
+    "color": "purple",
+    "flavor_text": "Its entire body is shielded by a steel-hard shell. What lurks inside the armor is a total mystery.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 140,
+        "effort": 2,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/205.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "steel"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "order": 288,
+    "name": "Dunsparce",
+    "height": 15,
+    "genus": "Land Snake Pokémon",
+    "habitat": "cave",
+    "color": "yellow",
+    "flavor_text": "DUNSPARCE has a drill for its tail. It uses this tail to burrow into the ground backwards. This POKéMON is known to make its nest in complex shapes deep under the ground.",
+    "stats": [
+      {
+        "base_stat": 100,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/206.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "order": 289,
+    "name": "Gligar",
+    "height": 11,
+    "genus": "Fly Scorpion Pokémon",
+    "habitat": "mountain",
+    "color": "purple",
+    "flavor_text": "It flies straight at its target’s face, then clamps down on the startled victim to inject poison.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 105,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/207.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "order": 143,
+    "name": "Steelix",
+    "height": 92,
+    "genus": "Iron Snake Pokémon",
+    "habitat": "cave",
+    "color": "gray",
+    "flavor_text": "Its body has been compressed deep under the ground. As a result, it is even harder than a diamond.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 200,
+        "effort": 2,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/208.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "steel"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "order": 291,
+    "name": "Snubbull",
+    "height": 6,
+    "genus": "Fairy Pokémon",
+    "habitat": "urban",
+    "color": "pink",
+    "flavor_text": "Although it looks frightening, it is actually kind and affectionate. It is very popular among women.",
+    "stats": [
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/209.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "order": 292,
+    "name": "Granbull",
+    "height": 14,
+    "genus": "Fairy Pokémon",
+    "habitat": "urban",
+    "color": "purple",
+    "flavor_text": "It is actually timid and easily spooked. If at­ tacked, it flails about to fend off its attacker.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 120,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/210.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fairy"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "order": 293,
+    "name": "Qwilfish",
+    "height": 5,
+    "genus": "Balloon Pokémon",
+    "habitat": "sea",
+    "color": "gray",
+    "flavor_text": "To fire its poison spikes, it must inflate its body by drinking over 2.6 gallons of water all at once.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/211.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "poison"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "order": 186,
+    "name": "Scizor",
+    "height": 18,
+    "genus": "Pincer Pokémon",
+    "habitat": "grassland",
+    "color": "red",
+    "flavor_text": "It swings its eye- patterned pincers up to scare its foes. This makes it look like it has three heads.",
+    "stats": [
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 130,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/212.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "steel"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "order": 294,
+    "name": "Shuckle",
+    "height": 6,
+    "genus": "Mold Pokémon",
+    "habitat": "mountain",
+    "color": "yellow",
+    "flavor_text": "The BERRIES it stores in its vase-like shell decompose and become a gooey liquid.",
+    "stats": [
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 10,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 230,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 10,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 230,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 5,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/213.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "rock"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "order": 295,
+    "name": "Heracross",
+    "height": 15,
+    "genus": "Single Horn Pokémon",
+    "habitat": "forest",
+    "color": "blue",
+    "flavor_text": "This powerful POKéMON thrusts its prized horn under its enemies’ bellies then lifts and throws them.",
+    "stats": [
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 125,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/214.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "bug"
+      },
+      {
+        "slot": 2,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "order": 297,
+    "name": "Sneasel",
+    "height": 9,
+    "genus": "Sharp Claw Pokémon",
+    "habitat": "forest",
+    "color": "black",
+    "flavor_text": "Its paws conceal sharp claws. If attacked, it sud­ denly extends the claws and startles its enemy.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 115,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/215.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dark"
+      },
+      {
+        "slot": 2,
+        "type_name": "ice"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "order": 299,
+    "name": "Teddiursa",
+    "height": 6,
+    "genus": "Little Bear Pokémon",
+    "habitat": "mountain",
+    "color": "brown",
+    "flavor_text": "If it finds honey, its crescent mark glows. It always licks its paws because they are soaked with honey.",
+    "stats": [
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/216.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "order": 300,
+    "name": "Ursaring",
+    "height": 18,
+    "genus": "Hibernator Pokémon",
+    "habitat": "mountain",
+    "color": "brown",
+    "flavor_text": "Although it is a good climber, it prefers to snap trees with its forelegs and eat fallen BERRIES.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 130,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/217.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "order": 301,
+    "name": "Slugma",
+    "height": 7,
+    "genus": "Lava Pokémon",
+    "habitat": "mountain",
+    "color": "red",
+    "flavor_text": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
+    "stats": [
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/218.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "order": 302,
+    "name": "Magcargo",
+    "height": 8,
+    "genus": "Lava Pokémon",
+    "habitat": "mountain",
+    "color": "red",
+    "flavor_text": "The shell on its back is just skin that has cooled and hardened. It breaks easily with a slight touch.",
+    "stats": [
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 120,
+        "effort": 2,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/219.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      },
+      {
+        "slot": 2,
+        "type_name": "rock"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "order": 303,
+    "name": "Swinub",
+    "height": 4,
+    "genus": "Pig Pokémon",
+    "habitat": "cave",
+    "color": "brown",
+    "flavor_text": "It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.",
+    "stats": [
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 50,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/220.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ice"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "order": 304,
+    "name": "Piloswine",
+    "height": 11,
+    "genus": "Swine Pokémon",
+    "habitat": "cave",
+    "color": "brown",
+    "flavor_text": "Because the long hair all over its body obscures its sight, it just keeps charging repeatedly.",
+    "stats": [
+      {
+        "base_stat": 100,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 100,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/221.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ice"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "order": 306,
+    "name": "Corsola",
+    "height": 6,
+    "genus": "Coral Pokémon",
+    "habitat": "sea",
+    "color": "pink",
+    "flavor_text": "It continuously sheds and grows. The tip of its head is prized as a treasure for its beauty.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/222.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "rock"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "order": 307,
+    "name": "Remoraid",
+    "height": 6,
+    "genus": "Jet Pokémon",
+    "habitat": "sea",
+    "color": "gray",
+    "flavor_text": "It squirts water forcefully from its mouth to shoot down flying prey.",
+    "stats": [
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/223.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "order": 308,
+    "name": "Octillery",
+    "height": 9,
+    "genus": "Jet Pokémon",
+    "habitat": "sea",
+    "color": "red",
+    "flavor_text": "It traps enemies with its suction- cupped tentacles then smashes them with its rock-hard head.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 105,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 105,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/224.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "order": 309,
+    "name": "Delibird",
+    "height": 9,
+    "genus": "Delivery Pokémon",
+    "habitat": "mountain",
+    "color": "red",
+    "flavor_text": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+    "stats": [
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 75,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/225.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ice"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "order": 311,
+    "name": "Mantine",
+    "height": 21,
+    "genus": "Kite Pokémon",
+    "habitat": "sea",
+    "color": "purple",
+    "flavor_text": "As it majestically swims, it doesn't care if REMORAID attach to it for scavenging its leftovers.",
+    "stats": [
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 140,
+        "effort": 2,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/226.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "order": 312,
+    "name": "Skarmory",
+    "height": 17,
+    "genus": "Armor Bird Pokémon",
+    "habitat": "rough terrain",
+    "color": "gray",
+    "flavor_text": "Its sturdy wings look heavy, but they are actually hollow and light, allowing it to fly freely in the sky.",
+    "stats": [
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 140,
+        "effort": 2,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/227.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "steel"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "order": 313,
+    "name": "Houndour",
+    "height": 6,
+    "genus": "Dark Pokémon",
+    "habitat": "rough terrain",
+    "color": "black",
+    "flavor_text": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+    "stats": [
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 80,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/228.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dark"
+      },
+      {
+        "slot": 2,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "order": 314,
+    "name": "Houndoom",
+    "height": 14,
+    "genus": "Dark Pokémon",
+    "habitat": "rough terrain",
+    "color": "black",
+    "flavor_text": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 110,
+        "effort": 2,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/229.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "dark"
+      },
+      {
+        "slot": 2,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "order": 178,
+    "name": "Kingdra",
+    "height": 18,
+    "genus": "Dragon Pokémon",
+    "habitat": "sea",
+    "color": "blue",
+    "flavor_text": "It is said that it usually hides in underwater caves. It can create whirlpools by yawning.",
+    "stats": [
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/230.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      },
+      {
+        "slot": 2,
+        "type_name": "dragon"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "order": 316,
+    "name": "Phanpy",
+    "height": 5,
+    "genus": "Long Nose Pokémon",
+    "habitat": "rough terrain",
+    "color": "blue",
+    "flavor_text": "It swings its long snout around play­ fully, but because it is so strong, that can be dan­ gerous.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/231.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "order": 317,
+    "name": "Donphan",
+    "height": 11,
+    "genus": "Armor Pokémon",
+    "habitat": "rough terrain",
+    "color": "gray",
+    "flavor_text": "It has sharp, hard tusks and a rugged hide. Its TACKLE is strong enough to knock down a house.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 120,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 120,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/232.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "order": 214,
+    "name": "Porygon2",
+    "height": 6,
+    "genus": "Virtual Pokémon",
+    "habitat": "urban",
+    "color": "red",
+    "flavor_text": "This upgraded version of PORYGON is designed for space exploration. It can't fly, though.",
+    "stats": [
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 105,
+        "effort": 2,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 60,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/233.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "order": 318,
+    "name": "Stantler",
+    "height": 14,
+    "genus": "Big Horn Pokémon",
+    "habitat": "forest",
+    "color": "brown",
+    "flavor_text": "Those who stare at its antlers will gradually lose control of their senses and be unable to stand.",
+    "stats": [
+      {
+        "base_stat": 73,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 62,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/234.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "order": 319,
+    "name": "Smeargle",
+    "height": 12,
+    "genus": "Painter Pokémon",
+    "habitat": "urban",
+    "color": "white",
+    "flavor_text": "A special fluid oozes from the tip of its tail. It paints the fluid everywhere to mark its territory.",
+    "stats": [
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 20,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 75,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/235.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "order": 158,
+    "name": "Tyrogue",
+    "height": 7,
+    "genus": "Scuffle Pokémon",
+    "habitat": "urban",
+    "color": "purple",
+    "flavor_text": "It is always bursting with en­ ergy. To make it­ self stronger, it keeps on fighting even if it loses.",
+    "stats": [
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 35,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/236.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "order": 161,
+    "name": "Hitmontop",
+    "height": 14,
+    "genus": "Handstand Pokémon",
+    "habitat": "urban",
+    "color": "brown",
+    "flavor_text": "If you become enchanted by its smooth, elegant, dance-like kicks, you may get drilled hard.",
+    "stats": [
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 35,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 110,
+        "effort": 2,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/237.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fighting"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "order": 188,
+    "name": "Smoochum",
+    "height": 4,
+    "genus": "Kiss Pokémon",
+    "habitat": "urban",
+    "color": "pink",
+    "flavor_text": "Its lips are the most sensitive parts on its body. It always uses its lips first to examine things.",
+    "stats": [
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 30,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 15,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/238.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "ice"
+      },
+      {
+        "slot": 2,
+        "type_name": "psychic"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "order": 190,
+    "name": "Elekid",
+    "height": 6,
+    "genus": "Electric Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "It generates electricity by whirling its arms. However, it can’t store the energy it makes.",
+    "stats": [
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 63,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 37,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 95,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/239.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "order": 193,
+    "name": "Magby",
+    "height": 7,
+    "genus": "Live Coal Pokémon",
+    "habitat": "mountain",
+    "color": "red",
+    "flavor_text": "Each and every time it inhales and exhales, hot embers dribble out of its mouth and nostrils.",
+    "stats": [
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 37,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 83,
+        "effort": 1,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/240.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "order": 320,
+    "name": "Miltank",
+    "height": 12,
+    "genus": "Milk Cow Pokémon",
+    "habitat": "grassland",
+    "color": "pink",
+    "flavor_text": "Its milk is packed with nutrition, making it the ultimate beverage for the sick or weary.",
+    "stats": [
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 80,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 105,
+        "effort": 2,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 40,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/241.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "order": 171,
+    "name": "Blissey",
+    "height": 15,
+    "genus": "Happiness Pokémon",
+    "habitat": "urban",
+    "color": "pink",
+    "flavor_text": "Anyone who takes even one bite of BLISSEY's egg be­ comes unfailingly caring and pleas­ ant to everyone.",
+    "stats": [
+      {
+        "base_stat": 255,
+        "effort": 3,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 10,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 10,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 135,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 55,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/242.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "normal"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "order": 321,
+    "name": "Raikou",
+    "height": 19,
+    "genus": "Thunder Pokémon",
+    "habitat": "grassland",
+    "color": "yellow",
+    "flavor_text": "The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.",
+    "stats": [
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 115,
+        "effort": 1,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 115,
+        "effort": 2,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/243.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "electric"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "order": 322,
+    "name": "Entei",
+    "height": 21,
+    "genus": "Volcano Pokémon",
+    "habitat": "grassland",
+    "color": "brown",
+    "flavor_text": "Volcanoes erupt when it barks. Un­ able to restrain its extreme power, it races headlong around the land.",
+    "stats": [
+      {
+        "base_stat": 115,
+        "effort": 1,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 115,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/244.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "order": 323,
+    "name": "Suicune",
+    "height": 20,
+    "genus": "Aurora Pokémon",
+    "habitat": "grassland",
+    "color": "blue",
+    "flavor_text": "Said to be the reincarnation of north winds, it can instantly purify filthy, murky water.",
+    "stats": [
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 75,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 115,
+        "effort": 1,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 115,
+        "effort": 2,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 85,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/245.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "water"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "order": 324,
+    "name": "Larvitar",
+    "height": 6,
+    "genus": "Rock Skin Pokémon",
+    "habitat": "mountain",
+    "color": "green",
+    "flavor_text": "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow.",
+    "stats": [
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 64,
+        "effort": 1,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 45,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 50,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 41,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/246.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "order": 325,
+    "name": "Pupitar",
+    "height": 12,
+    "genus": "Hard Shell Pokémon",
+    "habitat": "mountain",
+    "color": "gray",
+    "flavor_text": "Its shell is as hard as sheet rock, and it is also very strong. Its THRASHING can topple a mountain.",
+    "stats": [
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 84,
+        "effort": 2,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 65,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 70,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 51,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/247.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "ground"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "order": 326,
+    "name": "Tyranitar",
+    "height": 20,
+    "genus": "Armor Pokémon",
+    "habitat": "mountain",
+    "color": "green",
+    "flavor_text": "Its body can't be harmed by any sort of attack, so it is very eager to make challenges against enemies.",
+    "stats": [
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 134,
+        "effort": 3,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 110,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 95,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 61,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/248.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "rock"
+      },
+      {
+        "slot": 2,
+        "type_name": "dark"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "order": 328,
+    "name": "Lugia",
+    "height": 52,
+    "genus": "Diving Pokémon",
+    "habitat": "rare",
+    "color": "white",
+    "flavor_text": "It is said that it quietly spends its time deep at the bottom of the sea because its powers are too strong.",
+    "stats": [
+      {
+        "base_stat": 106,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 130,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 154,
+        "effort": 3,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 110,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/249.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "order": 329,
+    "name": "Ho-Oh",
+    "height": 38,
+    "genus": "Rainbow Pokémon",
+    "habitat": "rare",
+    "color": "red",
+    "flavor_text": "Legends claim this POKéMON flies the world's skies con­ tinuously on its magnificent seven- colored wings.",
+    "stats": [
+      {
+        "base_stat": 106,
+        "effort": 0,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 130,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 110,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 154,
+        "effort": 3,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 90,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/250.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "fire"
+      },
+      {
+        "slot": 2,
+        "type_name": "flying"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "order": 330,
+    "name": "Celebi",
+    "height": 6,
+    "genus": "Time Travel Pokémon",
+    "habitat": "forest",
+    "color": "green",
+    "flavor_text": "This POKéMON wan­ ders across time. Grass and trees flourish in the forests in which it has appeared.",
+    "stats": [
+      {
+        "base_stat": 100,
+        "effort": 3,
+        "stat_name": "hp"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "defense"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "special-attack"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "special-defense"
+      },
+      {
+        "base_stat": 100,
+        "effort": 0,
+        "stat_name": "speed"
+      }
+    ],
+    "sprite": {
+      "artwork_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "front_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+      "back_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/251.png"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type_name": "psychic"
+      },
+      {
+        "slot": 2,
+        "type_name": "grass"
+      }
+    ]
+  }
+]
