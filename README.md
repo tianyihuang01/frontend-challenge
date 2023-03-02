@@ -16,33 +16,36 @@
 
 ### Challenge
 
-Build a very basic single-page application to create a [Pokémon](https://en.wikipedia.org/wiki/Pok%C3%A9mon) team. Using the provided Figma design and data files the application should:
+Build a basic single-page application from the provided design to help look for [Pokémon](https://en.wikipedia.org/wiki/Pok%C3%A9mon) with the following features:
 
-1. Show a list of all Pokémon
-2. Allow a user to filter the list of Pokémon
-3. Allow a user to select up to 6 Pokémon
-4. Show the selected Pokémon team
+1. Shows a list of all Pokémon
+2. Allows a user to filter the list of Pokémon by their type(s)
+3. Pokémon stats over 90 are shown in red
 
 #### What's provided
 
-This repository contains the [Create React App](https://create-react-app.dev/) boilerplate code using the TypeScript template, a CSS reset, and the Pokémon logo image. You are free to use any other boilerplate or React framework that uses TypeScript if you'd prefer.
-
-We've also put together a few `.json` files containing all the Pokémon data from the first 3 generations that you can import right into your code to complete the challenge. You'll find these in the `./src/data` directory.
+1. A slightly modified [Create React App](https://create-react-app.dev/) template project using the TypeScript template, a CSS reset, and the Pokémon logo image.  
+   _You are free to use any other boilerplate or React framework that uses TypeScript if you'd prefer._
+2. A `.json` file in `./src/data/` containing all the Pokémon data from the first generation.  
+   _An import is already provided in `./src/App.tsx` to use this data too!_
+3. Ready-to-use TypeScript interfaces in `./src/types.ts` for the provided `.json` data.
+4. Figma design files as guidance for the look-and-feel of the application (see below).
 
 ##### Figma design files
 
-* [Figma design file](https://www.figma.com/file/ZZNxYLW2659wlA8nCv1MYP/Frontend-Challenge?node-id=0%3A1)
-* [Figma design functionality annotations](https://www.figma.com/file/VG6vlf1ow8zGZZrn6dvWiT/Untitled?node-id=0%3A1)
-* [Figma prototype (scrolling demo)](https://www.figma.com/proto/ZZNxYLW2659wlA8nCv1MYP/Frontend-Challenge?page-id=0%3A1&node-id=25%3A16401&viewport=1220%2C218%2C0.6763948798179626&scaling=min-zoom)
+- [Figma design file](https://www.figma.com/file/vFkenUEs7ExhVTTUv7Z3kv/Frontend-Challenge---Mid---Design-Files)
+- [Figma prototype (scrolling demo)](https://www.figma.com/proto/vFkenUEs7ExhVTTUv7Z3kv/Frontend-Challenge---Mid---Design-Files?page-id=0%3A1&node-id=25%3A19886&viewport=1185%2C82%2C0.94&scaling=min-zoom)
 
 #### Constraints
 
 - 2–4 hours over ~5 days
-- React + TypeScript
+- Use React and TypeScript
 
 ## Expectations
 
-**We do not expect you to spend more than 2–4 hours on the challenge**, and we understand that it's unrealistic to implement a complete and polished solution in this time frame. We also have intentionally built-in some poor usability patterns that we'd love for you to improve upon. If you feel there was more you could do to improve it by the end of this time, please add some notes about what you'd change. We'll discuss these with you in person (or video call). We are looking for good architectural decisions, modularity and readability, and adherence to industry best practices.
+**We do not expect you to spend more than 2–4 hours on the challenge**, and we understand that it's unrealistic to implement a complete and polished solution in this time frame.
+
+If you feel there was more you could do to improve it by the end of this time, please add some notes about what you'd change. We'll discuss these with you in person (or video call).
 
 ## Submission
 
