@@ -1,6 +1,7 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
-import 'css-wipe'
+import 'css-wipe';
+import './theme.css';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
