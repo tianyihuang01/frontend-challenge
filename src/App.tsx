@@ -1,5 +1,5 @@
 import 'css-wipe';
-import jsonData from './data/pokemon-gen1-gen2-gen3.json';
+import jsonData from './data/pokemon-gen1.json';
 import type { Pokemon } from './types';
 
 const data = jsonData as Pokemon[];
