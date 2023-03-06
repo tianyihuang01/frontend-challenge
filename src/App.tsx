@@ -17,7 +17,6 @@ function App() {
       <Main>
         <Title/>
         <PokemonDetails/>
-        <div className="list-container">Pokemon here!</div>
       </Main>
     </div>
   );

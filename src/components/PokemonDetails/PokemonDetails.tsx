@@ -3,6 +3,7 @@ import styled from "styled-components";
 
 import TypeFilter from "./components/TypeFilter";
 import PokemonItem from "./components/PokemonItem";
+import Pagination from './components/Pagination';
 
 import jsonData from "../../data/pokemon-gen1.json";
 import type { Pokemon } from "../../interface/types";
@@ -70,25 +71,35 @@ const PokemonTable = styled.table`
 
 const PokemonDetails: React.FC<{}> = () => {
 	const [filteredTypes, setFilteredTypes] = useState<Array<EPokemonType>>([]);
-	const [filteredData, setFilteredData] = useState<Array<Pokemon>>(data);
+	const [activePage, setActivePage] = useState<number>(1);
 
-	const updateFilteredTypes = (newFilteredTypes: Array<EPokemonType>) => {
-		setFilteredTypes(newFilteredTypes);
+	const filterData = (newFilteredTypes : Array<EPokemonType>) : Array<Pokemon> => {
 		switch (newFilteredTypes.length) {
-			case 0: setFilteredData(data); break;
+			case 0: 
+				return data;
 			default:
 				const newFilteredData = data.filter(({types}) => 
 					types.some(type => newFilteredTypes.includes(type.type_name))
 				)
-				setFilteredData(newFilteredData);
-				break;
+				return newFilteredData;
 		}
-		
+	}
+
+	const filteredData = filterData(filteredTypes);
+
+	const rowsPerPage = 5;
+	const count = filteredData.length
+	const totalPages = Math.ceil(count / rowsPerPage)
+	const calculatedRows = filteredData.slice((activePage - 1) * rowsPerPage, activePage * rowsPerPage)
+
+	const updateFilter = (newFilteredTypes: Array<EPokemonType>) => {
+		setFilteredTypes(newFilteredTypes);
+		setActivePage(1);
 	}
 
 	return (
 		<>
-			<TypeFilter filteredTypes={filteredTypes} updateFilteredTypes={updateFilteredTypes}/>
+			<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter}/>
 			{/* <div className="table-wrapper"> */}
 				<PokemonTable>
 					<thead>
@@ -104,13 +115,16 @@ const PokemonDetails: React.FC<{}> = () => {
 						</tr>
 					</thead>
 					<tbody>
-						<PokemonItem data={filteredData} filteredTypes={filteredTypes}/>
+						<PokemonItem data={calculatedRows} filteredTypes={filteredTypes}/>
 					</tbody>
 				</PokemonTable>
-				<div className="pagination">
-					<button className="prev-page">Previous</button>
-					<button className="next-page">Next</button>
-				</div>
+				<Pagination
+					activePage={activePage}
+					count={count}
+					rowsPerPage={rowsPerPage}
+					totalPages={totalPages}
+					setActivePage={setActivePage}
+				/>
 			{/* </div> */}
 		</>
 	)

@@ -21,7 +21,6 @@ export const TypeButton = styled.button<{customType: string, filled: boolean, cl
 		margin-right: 5px; 
 	}
 
-	// todo: add hover, focus style, add
 	${(props) => ({
 		[EPokemonType.BUG]: `
 			border-color: #A8B820;

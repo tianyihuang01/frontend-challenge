@@ -4,7 +4,7 @@ import { POKEMON_TYPE_ATTRS, EPokemonType } from '../../../../constants/types';
 
 interface TypeFilterProps {
 	filteredTypes: Array<EPokemonType>;
-	updateFilteredTypes: (newFilteredTypes: Array<EPokemonType>) => void;
+	updateFilter: (newFilteredTypes: Array<EPokemonType>) => void;
 }
 
 const ClearButton = styled.button`
@@ -16,16 +16,16 @@ const ClearButton = styled.button`
 `
 
 const TypeFilter: React.FC<TypeFilterProps> = (props) => {
-	const {filteredTypes, updateFilteredTypes} = props;
+	const {filteredTypes, updateFilter} = props;
 
 	const handleFilter = (clickedType: EPokemonType) : void => {
 		filteredTypes.includes(clickedType) 
-			? updateFilteredTypes(filteredTypes.filter((item) => item !== clickedType))
-			: updateFilteredTypes([...filteredTypes, clickedType])
+			? updateFilter(filteredTypes.filter((item) => item !== clickedType))
+			: updateFilter([...filteredTypes, clickedType])
 	}
 
 	const clearFilter = () => {
-		updateFilteredTypes([]);
+		updateFilter([]);
 	}
 
 	return (
