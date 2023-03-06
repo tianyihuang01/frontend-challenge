@@ -14,14 +14,14 @@ export const TypeButton = styled.button<{customType: string, filled: boolean, cl
 	border-width: 1px;
 	border-style: solid;
 	border-radius: 16px;
-	margin-bottom: 5px;
+	margin-top: 3px;
+	margin-bottom: 3px;
 	cursor: ${(props) => props.clicked ? 'pointer' : 'auto'};
 	
 	&:not(:last-child) {
 		margin-right: 5px; 
 	}
 
-	// todo: add hover, focus style, add
 	${(props) => ({
 		[EPokemonType.BUG]: `
 			border-color: #A8B820;
@@ -113,5 +113,5 @@ export const TypeButton = styled.button<{customType: string, filled: boolean, cl
 			color: ${props.filled ? '#FFFFFF' : '#6D5E9C'};
 			background-color: ${props.filled ? '#6D5E9C' : '#FFFFFF' };
 		`,
-	}[props.customType as string || 'bug'])}
+	}[props.customType as string || EPokemonType.BUG])}
 `;
