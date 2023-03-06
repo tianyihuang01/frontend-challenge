@@ -58,8 +58,8 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 
 		return (
 			<>
-				{Object.values(rowStats).map(({value, color}) => (
-					<PokemonStatCell color={color}>{value}</PokemonStatCell>
+				{Object.values(rowStats).map(({value, color}, index) => (
+					<PokemonStatCell key={index} color={color}>{value}</PokemonStatCell>
 				))}
 			</>
 		)
@@ -68,7 +68,7 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 	return (
 		<>
 			{data.map((row) => (
-				<tr>
+				<tr key={row.id}>
 					<td>
 						<PokemonIconName>
 								<PokemonIcon src={row.sprite.front_url} alt='pokemon icon'/>
@@ -77,8 +77,8 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 					</td>
 					<td>
 						<ButtonContainer>
-							{row.types.map(({type_name}) => (
-									<TypeButton customType={type_name} filled={false} clicked={false}>{type_name}</TypeButton>
+							{row.types.map(({type_name, slot}) => (
+									<TypeButton key={slot} customType={type_name} filled={false} clicked={false}>{type_name}</TypeButton>
 							))}
 						</ButtonContainer>
 					</td>

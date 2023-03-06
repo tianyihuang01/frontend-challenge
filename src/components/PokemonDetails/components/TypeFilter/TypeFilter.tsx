@@ -14,8 +14,8 @@ const TypeFilter: React.FC<{}> = (props) => {
 	return (
 		<>
 			<ButtonContainer>
-				{POKEMON_TYPE_ATTRS.map((type) => (
-					<TypeButton customType={type} filled={false} clicked={true}>{type}</TypeButton>
+				{POKEMON_TYPE_ATTRS.map((type, index) => (
+					<TypeButton key={index} customType={type} filled={false} clicked={true}>{type}</TypeButton>
 				))}
 				<ClearButton>Clear all</ClearButton>
 			</ButtonContainer>
