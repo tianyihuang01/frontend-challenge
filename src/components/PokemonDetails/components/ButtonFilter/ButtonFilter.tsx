@@ -14,7 +14,8 @@ export const TypeButton = styled.button<{customType: string, filled: boolean, cl
 	border-width: 1px;
 	border-style: solid;
 	border-radius: 16px;
-	margin-bottom: 5px;
+	margin-top: 3px;
+	margin-bottom: 3px;
 	cursor: ${(props) => props.clicked ? 'pointer' : 'auto'};
 	
 	&:not(:last-child) {

@@ -7,7 +7,7 @@ import PokemonDetails from "./components/PokemonDetails";
 const Main = styled.main`
   max-width: 1290px;
   margin: 0 auto;
-	padding-top: 33px;
+  padding-top: 83px;
 `
 
 function App() {

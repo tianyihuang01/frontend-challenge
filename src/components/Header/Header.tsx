@@ -7,7 +7,9 @@ const NavContainer = styled.nav`
     background-color: var(--color-red);
     display: flex;
     justify-content: center;
-`
+    position: fixed;
+    width: 100%;
+`;
 
 const Logo = styled.img`
   margin-top: 25px;

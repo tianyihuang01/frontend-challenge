@@ -69,6 +69,16 @@ const PokemonTable = styled.table`
 	}
 `;
 
+const EmptyView = styled.div`
+	max-width: 1000px;
+	margin: 10px auto;
+	background-color: var(--color-white);
+	border-radius: 8px;
+	box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2),
+		0px 3px 1px 0px rgba(0, 0, 0, 0.12), 0px 2px 2px 0px rgba(0, 0, 0, 0.14);
+	padding: 20px;
+`;
+
 const PokemonDetails: React.FC<{}> = () => {
 	const [filteredTypes, setFilteredTypes] = useState<Array<EPokemonType>>([]);
 	const [activePage, setActivePage] = useState<number>(1);
@@ -97,35 +107,42 @@ const PokemonDetails: React.FC<{}> = () => {
 		setActivePage(1);
 	}
 
+	if (calculatedRows.length === 0 ) {
+		return (
+			<>
+				<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter}/>
+				<EmptyView>No data found, please try another type</EmptyView>
+			</>
+			)
+	}
+
 	return (
 		<>
 			<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter}/>
-			{/* <div className="table-wrapper"> */}
-				<PokemonTable>
-					<thead>
-						<tr>
-							<th>Pokemon</th>
-							<th>Type(s)</th>
-							<th>Attack</th>
-							<th>Sp. Attack</th>
-							<th>Defense</th>
-							<th>Sp. Defense</th>
-							<th>Speed</th>
-							<th>Hit Points</th>
-						</tr>
-					</thead>
-					<tbody>
-						<PokemonItem data={calculatedRows} filteredTypes={filteredTypes}/>
-					</tbody>
-				</PokemonTable>
-				<Pagination
-					activePage={activePage}
-					count={count}
-					rowsPerPage={rowsPerPage}
-					totalPages={totalPages}
-					setActivePage={setActivePage}
-				/>
-			{/* </div> */}
+			<PokemonTable>
+				<thead>
+					<tr>
+						<th>Pokemon</th>
+						<th>Type(s)</th>
+						<th>Attack</th>
+						<th>Sp. Attack</th>
+						<th>Defense</th>
+						<th>Sp. Defense</th>
+						<th>Speed</th>
+						<th>Hit Points</th>
+					</tr>
+				</thead>
+				<tbody>
+					<PokemonItem data={calculatedRows} filteredTypes={filteredTypes}/>
+				</tbody>
+			</PokemonTable>
+			<Pagination
+				activePage={activePage}
+				count={count}
+				rowsPerPage={rowsPerPage}
+				totalPages={totalPages}
+				setActivePage={setActivePage}
+			/>
 		</>
 	)
 };
