@@ -1,21 +1,24 @@
 import "css-wipe";
-import jsonData from "./data/pokemon-gen1.json";
-import type { Pokemon } from "./types";
+import styled from "styled-components";
+import Header from './components/Header';
+import Title from './components/Title';
+import PokemonDetails from "./components/PokemonDetails";
 
-import pokemonLogo from "./img/pokemon-logo.png";
-
-const data = jsonData as Pokemon[];
+const Main = styled.main`
+  max-width: 1290px;
+  margin: 0 auto;
+	padding-top: 33px;
+`
 
 function App() {
   return (
     <div className="container">
-      <nav className="nav">
-        <img alt="Pokémon Logo" className="logo" src={pokemonLogo} />
-      </nav>
-      <main className="content">
-        <p>Your content here!</p>
+      <Header/>
+      <Main>
+        <Title/>
+        <PokemonDetails/>
         <div className="list-container">Pokemon here!</div>
-      </main>
+      </Main>
     </div>
   );
 }
