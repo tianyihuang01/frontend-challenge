@@ -1,12 +1,13 @@
 import styled from 'styled-components';
 
-import { ButtonContainer, TypeButton } from '../FilterButton/FilterButton';
+import { ButtonContainer, TypeButton } from '../ButtonFilter/ButtonFilter';
 import { EPokemonStatTypeBase } from '../../../../constants/stats';
 import { StatName, PokemonStat, Pokemon } from '../../../../interface/types';
-
+import { EPokemonType } from '../../../../constants/types';
 
 interface PokemonItemProps {
 	data: Array<Pokemon>;
+	filteredTypes: Array<EPokemonType>;
 }
 
 const PokemonIconName = styled.div`
@@ -30,9 +31,9 @@ const PokemonStatCell = styled.td<{color: string}>`
 `;
 
 const PokemonItem: React.FC<PokemonItemProps> = (props) => {
-	const {data} = props;
+	const {data, filteredTypes} = props;
 
-	const renderStats = (stats : Array<PokemonStat>) => {
+	const renderStats = (stats : Array<PokemonStat>) : JSX.Element => {
 		let rowStats = {
 			[EPokemonStatTypeBase.ATTACK]: {value: 0, color: 'black'},
 			[EPokemonStatTypeBase.SPECIAL_ATTACK]: {value: 0, color: 'black'},
@@ -77,9 +78,19 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 					</td>
 					<td>
 						<ButtonContainer>
-							{row.types.map(({type_name, slot}) => (
-									<TypeButton key={slot} customType={type_name} filled={false} clicked={false}>{type_name}</TypeButton>
-							))}
+							{row.types.map(({type_name, slot}) => {
+								const filled = filteredTypes.find(item => item === type_name) ? true : false;
+								return (
+									<TypeButton 
+										key={slot} 
+										customType={type_name} 
+										filled={filled} 
+										clicked={false}
+									>
+										{type_name}
+									</TypeButton>
+								)
+							})}
 						</ButtonContainer>
 					</td>
 					{renderStats(row.stats)}

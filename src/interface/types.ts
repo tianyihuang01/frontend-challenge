@@ -1,3 +1,5 @@
+import { EPokemonType } from '../constants/types';
+
 export type StatName =
 	| "hp"
 	| "attack"
@@ -14,7 +16,7 @@ export interface PokemonStat {
 
 export interface PokemonType {
 	slot: number;
-	type_name: string;
+	type_name: EPokemonType;
 }
 
 export interface PokemonSprite {

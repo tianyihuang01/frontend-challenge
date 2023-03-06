@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import styled from "styled-components";
 
 import TypeFilter from "./components/TypeFilter";
@@ -5,9 +6,9 @@ import PokemonItem from "./components/PokemonItem";
 
 import jsonData from "../../data/pokemon-gen1.json";
 import type { Pokemon } from "../../interface/types";
+import { POKEMON_TYPE_ATTRS, EPokemonType } from '../../constants/types';
 
 const data = jsonData as Pokemon[];
-
 
 const PokemonTable = styled.table`
 	margin: 0 auto;
@@ -68,9 +69,26 @@ const PokemonTable = styled.table`
 `;
 
 const PokemonDetails: React.FC<{}> = () => {
+	const [filteredTypes, setFilteredTypes] = useState<Array<EPokemonType>>([]);
+	const [filteredData, setFilteredData] = useState<Array<Pokemon>>(data);
+
+	const updateFilteredTypes = (newFilteredTypes: Array<EPokemonType>) => {
+		setFilteredTypes(newFilteredTypes);
+		switch (newFilteredTypes.length) {
+			case 0: setFilteredData(data); break;
+			default:
+				const newFilteredData = data.filter(({types}) => 
+					types.some(type => newFilteredTypes.includes(type.type_name))
+				)
+				setFilteredData(newFilteredData);
+				break;
+		}
+		
+	}
+
 	return (
 		<>
-			<TypeFilter/>
+			<TypeFilter filteredTypes={filteredTypes} updateFilteredTypes={updateFilteredTypes}/>
 			{/* <div className="table-wrapper"> */}
 				<PokemonTable>
 					<thead>
@@ -86,7 +104,7 @@ const PokemonDetails: React.FC<{}> = () => {
 						</tr>
 					</thead>
 					<tbody>
-						<PokemonItem data={data}/>
+						<PokemonItem data={filteredData} filteredTypes={filteredTypes}/>
 					</tbody>
 				</PokemonTable>
 				<div className="pagination">

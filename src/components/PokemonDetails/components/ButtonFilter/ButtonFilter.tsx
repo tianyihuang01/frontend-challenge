@@ -113,5 +113,5 @@ export const TypeButton = styled.button<{customType: string, filled: boolean, cl
 			color: ${props.filled ? '#FFFFFF' : '#6D5E9C'};
 			background-color: ${props.filled ? '#6D5E9C' : '#FFFFFF' };
 		`,
-	}[props.customType as string || 'bug'])}
+	}[props.customType as string || EPokemonType.BUG])}
 `;
