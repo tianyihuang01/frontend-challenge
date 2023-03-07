@@ -1,4 +1,4 @@
-import { EPokemonType } from '../constants/types';
+import { EPokemonType } from "../constants/types";
 
 export type StatName =
 	| "hp"
