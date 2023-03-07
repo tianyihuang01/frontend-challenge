@@ -67,9 +67,9 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 	}
 
 	return (
-		<>
+		<tbody data-testid='pokemon-item'>
 			{data.map((row) => (
-				<tr key={row.id}>
+				<tr key={row.id} data-testid="table-row">
 					<td>
 						<PokemonIconName>
 								<PokemonIcon src={row.sprite.front_url} alt='pokemon icon'/>
@@ -96,7 +96,7 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 					{renderStats(row.stats)}
 				</tr>
 			))}
-		</>
+		</tbody>
 	)
 }
 

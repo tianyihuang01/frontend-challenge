@@ -7,7 +7,7 @@ import Pagination from './components/Pagination';
 
 import jsonData from "../../data/pokemon-gen1.json";
 import type { Pokemon } from "../../interface/types";
-import { POKEMON_TYPE_ATTRS, EPokemonType } from '../../constants/types';
+import { EPokemonType } from '../../constants/types';
 
 const data = jsonData as Pokemon[];
 
@@ -109,15 +109,15 @@ const PokemonDetails: React.FC<{}> = () => {
 
 	if (calculatedRows.length === 0 ) {
 		return (
-			<>
+			<div data-testid="pokemon-empty-view">
 				<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter}/>
 				<EmptyView>No data found, please try another type</EmptyView>
-			</>
+			</div>
 			)
 	}
 
 	return (
-		<>
+		<div data-testid='pokemon-details'>
 			<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter}/>
 			<PokemonTable>
 				<thead>
@@ -132,9 +132,7 @@ const PokemonDetails: React.FC<{}> = () => {
 						<th>Hit Points</th>
 					</tr>
 				</thead>
-				<tbody>
-					<PokemonItem data={calculatedRows} filteredTypes={filteredTypes}/>
-				</tbody>
+				<PokemonItem data={calculatedRows} filteredTypes={filteredTypes}/>
 			</PokemonTable>
 			<Pagination
 				activePage={activePage}
@@ -143,7 +141,7 @@ const PokemonDetails: React.FC<{}> = () => {
 				totalPages={totalPages}
 				setActivePage={setActivePage}
 			/>
-		</>
+		</div>
 	)
 };
 

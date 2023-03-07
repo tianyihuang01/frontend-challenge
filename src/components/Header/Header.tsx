@@ -18,7 +18,7 @@ const Logo = styled.img`
 
 const Header: React.FC<{}> = () => {
   return (
-  <NavContainer>
+  <NavContainer data-testid="header">
     <Logo alt="Pokémon Logo" src={pokemonLogo} />
   </NavContainer>
   );

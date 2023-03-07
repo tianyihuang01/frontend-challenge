@@ -40,7 +40,7 @@ const Pagination: React.FC<PaginationProps> = (props) => {
   const end = activePage === totalPages ? count : beginning + rowsPerPage - 1
 
 	return (
-		<PaginationContainer>
+		<PaginationContainer data-testid='pagination'>
 			<div>
 				<PaginationButton disabled={activePage === 1} onClick={() => setActivePage(1)}>
 					⏮️ First

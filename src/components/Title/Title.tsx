@@ -11,7 +11,7 @@ const TitleContent = styled.h1`
 `;
 
 const Title: React.FC<{}> = () => (
-	<TitleContainer>
+	<TitleContainer data-testid="title">
 		<TitleContent>Find Pokemon to build your team!</TitleContent>
 	</TitleContainer>
 )
