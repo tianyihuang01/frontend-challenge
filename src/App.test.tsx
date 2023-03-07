@@ -1,8 +1,25 @@
-import { render, screen } from '@testing-library/react';
+import { render } from '@testing-library/react';
 import App from './App';
 
-test('renders "It works!" text', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/It works!/i);
-  expect(linkElement).toBeInTheDocument();
+describe('App', () => {
+  test('renders Header', () => {
+    const { getByTestId } = render(<App />);
+    const header = getByTestId('header');
+
+    expect(header).toBeInTheDocument();
+  });
+
+  test('renders title', () => {
+    const { getByTestId } = render(<App />);
+    const title = getByTestId('title');
+
+    expect(title).toBeInTheDocument();
+  });
+
+  test('renders pokemon-details', () => {
+    const { getByTestId } = render(<App />);
+    const Pokemon = getByTestId('pokemon-details');
+
+    expect(Pokemon).toBeInTheDocument();
+  });
 });

@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 import { ButtonContainer, TypeButton } from '../ButtonFilter/ButtonFilter';
 import { EPokemonStatTypeBase } from '../../../../constants/stats';
-import { StatName, PokemonStat, Pokemon } from '../../../../interface/types';
+import { PokemonStat, Pokemon } from '../../../../interface/types';
 import { EPokemonType } from '../../../../constants/types';
 
 interface PokemonItemProps {
@@ -67,9 +67,9 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 	}
 
 	return (
-		<>
+		<tbody data-testid='pokemon-item'>
 			{data.map((row) => (
-				<tr key={row.id}>
+				<tr key={row.id} data-testid="table-row">
 					<td>
 						<PokemonIconName>
 								<PokemonIcon src={row.sprite.front_url} alt='pokemon icon'/>
@@ -96,7 +96,7 @@ const PokemonItem: React.FC<PokemonItemProps> = (props) => {
 					{renderStats(row.stats)}
 				</tr>
 			))}
-		</>
+		</tbody>
 	)
 }
 

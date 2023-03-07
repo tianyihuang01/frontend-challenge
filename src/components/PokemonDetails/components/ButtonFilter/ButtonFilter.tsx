@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import {EPokemonType } from '../../../../constants/types';
+import { EPokemonType } from '../../../../constants/types';
 
 export const ButtonContainer = styled.div`
 	display: flex;

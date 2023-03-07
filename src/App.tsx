@@ -12,7 +12,7 @@ const Main = styled.main`
 
 function App() {
   return (
-    <div className="container">
+    <div>
       <Header/>
       <Main>
         <Title/>

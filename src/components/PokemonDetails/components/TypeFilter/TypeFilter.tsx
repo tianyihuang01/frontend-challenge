@@ -30,7 +30,7 @@ const TypeFilter: React.FC<TypeFilterProps> = (props) => {
 
 	return (
 		<>
-			<ButtonContainer>
+			<ButtonContainer data-testid='type-filter'>
 				{POKEMON_TYPE_ATTRS.map((type, index) => {
 					const filled = filteredTypes.find(item => item === type) ? true : false;
 					return (
@@ -40,12 +40,13 @@ const TypeFilter: React.FC<TypeFilterProps> = (props) => {
 							filled={filled} 
 							clicked={true}
 							onClick={() => handleFilter(type)}
+							data-testid="button"
 						>
 							{type}
 						</TypeButton>
 					)
 				})}
-				<ClearButton onClick={clearFilter}>Clear all</ClearButton>
+				<ClearButton data-testid="button" onClick={clearFilter}>Clear all</ClearButton>
 			</ButtonContainer>
 		</>
 	)
