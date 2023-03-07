@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 import { ButtonContainer, TypeButton } from '../ButtonFilter/ButtonFilter';
 import { EPokemonStatTypeBase } from '../../../../constants/stats';
-import { StatName, PokemonStat, Pokemon } from '../../../../interface/types';
+import { PokemonStat, Pokemon } from '../../../../interface/types';
 import { EPokemonType } from '../../../../constants/types';
 
 interface PokemonItemProps {

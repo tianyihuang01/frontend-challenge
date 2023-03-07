@@ -1,7 +1,7 @@
 import { render } from '@testing-library/react';
 import { TypeButton, ButtonContainer } from './ButtonFilter';
 
-describe('Button', () => {
+describe('ButtonFilter', () => {
 	test('renders a button with the correct styles', () => {
     const { getByRole } = render(<TypeButton customType='bug' filled={true} clicked={false}>bug</TypeButton>);
     const button = getByRole('button');

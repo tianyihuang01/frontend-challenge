@@ -1,6 +1,4 @@
 import styled from 'styled-components';
-import { ButtonContainer, TypeButton } from '../ButtonFilter/ButtonFilter';
-import { POKEMON_TYPE_ATTRS, EPokemonType } from '../../../../constants/types';
 
 interface PaginationProps {
 	activePage: number;

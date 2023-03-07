@@ -2,7 +2,7 @@ import { render, fireEvent } from '@testing-library/react';
 import TypeFilter from './TypeFilter';
 import { POKEMON_TYPE_ATTRS, EPokemonType } from '../../../../constants/types';
 
-describe('TypeFilter component', () => {
+describe('TypeFilter', () => {
 	const updateFilter = jest.fn();
 
 	test('renders the correct number of buttons', () => {
@@ -14,7 +14,7 @@ describe('TypeFilter component', () => {
     expect(buttons.length).toBe(19);
   });
 
-	test('calls the update function when the clear button is clicked', () => {
+  test('calls the update function when the clear button is clicked', () => {
     const filteredTypes : Array<EPokemonType> = [];
     
     const { getAllByTestId } = render(
@@ -25,7 +25,7 @@ describe('TypeFilter component', () => {
     expect(updateFilter).toHaveBeenCalledWith([]);
   });
 
-	test('calls the update function when a selected filter is clicked', () => {
+  test('calls the update function when a selected filter is clicked', () => {
     const filteredTypes : Array<EPokemonType> = [EPokemonType.BUG, EPokemonType.DARK];
     
     const { getAllByTestId } = render(
@@ -36,7 +36,7 @@ describe('TypeFilter component', () => {
     expect(updateFilter).toHaveBeenCalledWith([EPokemonType.DARK]);
   });
 
-	test('calls the update function when an unselected filter is clicked', () => {
+  test('calls the update function when an unselected filter is clicked', () => {
     const filteredTypes : Array<EPokemonType> = [EPokemonType.BUG];
     
     const { getAllByTestId } = render(

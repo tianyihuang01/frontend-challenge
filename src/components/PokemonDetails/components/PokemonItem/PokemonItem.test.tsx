@@ -1,11 +1,11 @@
-import { render, fireEvent } from '@testing-library/react';
+import { render } from '@testing-library/react';
 import PokemonItem from './PokemonItem';
 
 import jsonData from "../../../../data/pokemon-gen1.json";
 import type { Pokemon } from "../../../../interface/types";
-import { POKEMON_TYPE_ATTRS, EPokemonType } from '../../../../constants/types';
+import { EPokemonType } from '../../../../constants/types';
 
-describe('PokemonItem component', () => {
+describe('PokemonItem', () => {
 	const data = (jsonData as Pokemon[]).slice(0, 10);
 
 	test('should render the correct number of rows', () => {

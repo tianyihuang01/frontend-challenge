@@ -1,11 +1,10 @@
 import { render, fireEvent } from '@testing-library/react';
-import userEvent from '@testing-library/user-event';
 import PokemonDetails from './PokemonDetails';
 
 import jsonData from "../../data/pokemon-gen1.json";
 import type { Pokemon } from "../../interface/types";
 
-describe('PokmonDetails component', () => {
+describe('PokemonDetails', () => {
 	const data = (jsonData as Pokemon[]).slice(0, 10);
 
 	test('renders filter with correct props', () => {
