@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 interface PaginationProps {
 	activePage: number;
@@ -19,12 +19,12 @@ const PaginationContainer = styled.div`
 	}
 `;
 
-const PaginationButton = styled.button<{disabled: boolean}>`
+const PaginationButton = styled.button<{ disabled: boolean }>`
 	padding: 9px 12px;
 	border-width: 0;
 	border-radius: 16px;
 	margin-bottom: 5px;
-	cursor: ${props => props.disabled ? 'auto' : 'pointer' };
+	cursor: ${(props) => (props.disabled ? "auto" : "pointer")};
 
 	&:not(:last-child) {
 		margin-right: 6px;
@@ -32,24 +32,36 @@ const PaginationButton = styled.button<{disabled: boolean}>`
 `;
 
 const Pagination: React.FC<PaginationProps> = (props) => {
-	const {activePage, count, rowsPerPage, totalPages, setActivePage} = props;
+	const { activePage, count, rowsPerPage, totalPages, setActivePage } = props;
 
-	const beginning = activePage === 1 ? 1 : rowsPerPage * (activePage - 1) + 1
-  const end = activePage === totalPages ? count : beginning + rowsPerPage - 1
+	const beginning = activePage === 1 ? 1 : rowsPerPage * (activePage - 1) + 1;
+	const end = activePage === totalPages ? count : beginning + rowsPerPage - 1;
 
 	return (
-		<PaginationContainer data-testid='pagination'>
+		<PaginationContainer data-testid="pagination">
 			<div>
-				<PaginationButton disabled={activePage === 1} onClick={() => setActivePage(1)}>
+				<PaginationButton
+					disabled={activePage === 1}
+					onClick={() => setActivePage(1)}
+				>
 					⏮️ First
 				</PaginationButton>
-				<PaginationButton disabled={activePage === 1} onClick={() => setActivePage(activePage - 1)}>
+				<PaginationButton
+					disabled={activePage === 1}
+					onClick={() => setActivePage(activePage - 1)}
+				>
 					⬅️ Previous
 				</PaginationButton>
-				<PaginationButton disabled={activePage === totalPages} onClick={() => setActivePage(activePage + 1)}>
+				<PaginationButton
+					disabled={activePage === totalPages}
+					onClick={() => setActivePage(activePage + 1)}
+				>
 					Next ➡️
 				</PaginationButton>
-				<PaginationButton disabled={activePage === totalPages} onClick={() => setActivePage(totalPages)}>
+				<PaginationButton
+					disabled={activePage === totalPages}
+					onClick={() => setActivePage(totalPages)}
+				>
 					Last ⏭️
 				</PaginationButton>
 			</div>
@@ -60,7 +72,7 @@ const Pagination: React.FC<PaginationProps> = (props) => {
 				Rows: {beginning === end ? end : `${beginning} - ${end}`} of {count}
 			</p>
 		</PaginationContainer>
-	)
-}
+	);
+};
 
 export default Pagination;

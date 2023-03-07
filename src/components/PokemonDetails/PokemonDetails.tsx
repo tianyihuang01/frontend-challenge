@@ -1,23 +1,23 @@
-import { useState } from 'react';
+import { useState } from "react";
 import styled from "styled-components";
 
 import TypeFilter from "./components/TypeFilter";
 import PokemonItem from "./components/PokemonItem";
-import Pagination from './components/Pagination';
+import Pagination from "./components/Pagination";
 
 import jsonData from "../../data/pokemon-gen1.json";
 import type { Pokemon } from "../../interface/types";
-import { EPokemonType } from '../../constants/types';
+import { EPokemonType } from "../../constants/types";
 
 const data = jsonData as Pokemon[];
 
 const PokemonTable = styled.table`
 	margin: 0 auto;
 
-	thead th{
+	thead th {
 		padding: 10px;
 		font-size: 13px;
-    font-weight: 650;
+		font-weight: 650;
 		:nth-child(-n + 2) {
 			text-align: left;
 		}
@@ -53,10 +53,11 @@ const PokemonTable = styled.table`
 		}
 
 		&:not(:last-child) {
-      background: linear-gradient(white, white) padding-box, 
-			linear-gradient(270deg, #F8F9FC 0%, #E3E7ED 50.05%, #F8F9FC 100%) border-box;
-    	border-bottom: 1px solid transparent;
-    }
+			background: linear-gradient(white, white) padding-box,
+				linear-gradient(270deg, #f8f9fc 0%, #e3e7ed 50.05%, #f8f9fc 100%)
+					border-box;
+			border-bottom: 1px solid transparent;
+		}
 
 		td {
 			padding: 20px;
@@ -83,42 +84,47 @@ const PokemonDetails: React.FC<{}> = () => {
 	const [filteredTypes, setFilteredTypes] = useState<Array<EPokemonType>>([]);
 	const [activePage, setActivePage] = useState<number>(1);
 
-	const filterData = (newFilteredTypes : Array<EPokemonType>) : Array<Pokemon> => {
+	const filterData = (
+		newFilteredTypes: Array<EPokemonType>
+	): Array<Pokemon> => {
 		switch (newFilteredTypes.length) {
-			case 0: 
+			case 0:
 				return data;
 			default:
-				const newFilteredData = data.filter(({types}) => 
-					types.some(type => newFilteredTypes.includes(type.type_name))
-				)
+				const newFilteredData = data.filter(({ types }) =>
+					types.some((type) => newFilteredTypes.includes(type.type_name))
+				);
 				return newFilteredData;
 		}
-	}
+	};
 
 	const filteredData = filterData(filteredTypes);
 
 	const rowsPerPage = 5;
-	const count = filteredData.length
-	const totalPages = Math.ceil(count / rowsPerPage)
-	const calculatedRows = filteredData.slice((activePage - 1) * rowsPerPage, activePage * rowsPerPage)
+	const count = filteredData.length;
+	const totalPages = Math.ceil(count / rowsPerPage);
+	const calculatedRows = filteredData.slice(
+		(activePage - 1) * rowsPerPage,
+		activePage * rowsPerPage
+	);
 
 	const updateFilter = (newFilteredTypes: Array<EPokemonType>) => {
 		setFilteredTypes(newFilteredTypes);
 		setActivePage(1);
-	}
+	};
 
-	if (calculatedRows.length === 0 ) {
+	if (calculatedRows.length === 0) {
 		return (
 			<div data-testid="pokemon-empty-view">
-				<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter}/>
+				<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter} />
 				<EmptyView>No data found, please try another type</EmptyView>
 			</div>
-			)
+		);
 	}
 
 	return (
-		<div data-testid='pokemon-details'>
-			<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter}/>
+		<div data-testid="pokemon-details">
+			<TypeFilter filteredTypes={filteredTypes} updateFilter={updateFilter} />
 			<PokemonTable>
 				<thead>
 					<tr>
@@ -132,7 +138,7 @@ const PokemonDetails: React.FC<{}> = () => {
 						<th>Hit Points</th>
 					</tr>
 				</thead>
-				<PokemonItem data={calculatedRows} filteredTypes={filteredTypes}/>
+				<PokemonItem data={calculatedRows} filteredTypes={filteredTypes} />
 			</PokemonTable>
 			<Pagination
 				activePage={activePage}
@@ -142,7 +148,7 @@ const PokemonDetails: React.FC<{}> = () => {
 				setActivePage={setActivePage}
 			/>
 		</div>
-	)
+	);
 };
 
 export default PokemonDetails;

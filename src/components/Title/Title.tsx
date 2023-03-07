@@ -14,6 +14,6 @@ const Title: React.FC<{}> = () => (
 	<TitleContainer data-testid="title">
 		<TitleContent>Find Pokemon to build your team!</TitleContent>
 	</TitleContainer>
-)
+);
 
 export default Title;
