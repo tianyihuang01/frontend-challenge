@@ -13,6 +13,7 @@ Supplement
    *  styled-components
    * @types/styled-components
 * Unit tests are added for each component using Jest.
+* Pagination are added to improve user experience.
 
 ### File structure
 
