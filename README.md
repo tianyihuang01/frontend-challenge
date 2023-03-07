@@ -1,4 +1,56 @@
-# Bueno Frontend Challenge
+# Frontend Challenge
+
+## Updates from Candidate 
+(last update: 7/03/2023)
+
+The following functionalities are implemented
+* Shows a list of all Pokémon
+* Allows a user to filter the list of Pokémon by their type(s)
+* Pokémon stats over 90 are shown in red
+
+Supplement
+* The following packages are installed.
+   *  styled-components
+   * @types/styled-components
+* Unit tests are added for each component using Jest.
+
+### File structure
+
+```
+$PROJECT_ROOT
+├── public
+│
+├── src
+│   │   # React component files
+│   ├── components
+│       # Top navigation bar component
+│       ├── Header
+│       # The filter buttons and table
+│       ├── PokemonDetails
+│           ├── components
+│               # A styled-component for all filter buttons
+│               ├── ButtonFilter
+│               # Divide a list into several pages
+│               ├── Pagination
+│               # Each row in the table
+│               ├── PokemonItem
+│               # A button group with filter options
+│               ├── TypeFilter
+│       # Title component
+│       ├── Title
+│
+│   │   # Reusable variables
+│   ├── constants
+│   │   # Sample data file
+│   ├── data
+│   │   # Sample image file
+│   ├── img
+│   │   # Interfaces files
+│   ├── interfaces
+```
+
+## Original Introduction
+This is the original introduction that was already in the README file. It will remain unchanged below the new information.
 
 ## Prerequisites
 
